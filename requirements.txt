@@ -1,0 +1,15 @@
+pyside6>=6.6.0
+pydicom>=2.4.0
+SimpleITK>=2.3.0
+vtk>=9.2.0
+numpy>=1.24.0
+requests>=2.31.0
+torch>=2.1.0
+torchvision>=0.16.0
+nibabel>=5.2.1
+tqdm>=4.66.2
+totalsegmentator>=1.5.0
+torchvision>=0.16.0
+nibabel>=5.2.1
+tqdm>=4.66.2
+pytest>=8.0.0
